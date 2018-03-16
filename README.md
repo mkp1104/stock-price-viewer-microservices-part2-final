@@ -8,3 +8,5 @@ In this Part, we covered the below microservices:s
 
 ## Architecture Diagram:
 ![Architecture](Architecture.png)
+cmd to Run - mvn spring-boot:run
+URL- http://localhost:8302
